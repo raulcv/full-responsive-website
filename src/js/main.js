@@ -16,6 +16,7 @@ if (navClose) {
   navClose.addEventListener("click", () => {
     navMenu.classList.remove("show-menu");
     console.log("here2");
+    console.log(new Date())
   });
 }
 
