@@ -1,4 +1,4 @@
-# Simple responsive Web site Using html, css and javascript
+# Nice! Full responsive portFolio Web Site using html, css, javascript and a couple of libraries for animation
 This project uses the following technologies:
 
 * HTML
@@ -10,6 +10,8 @@ Others
 
 For running execute the following command lines
 * git clone https://github.com/raulcv/me-basic-website.git
-* open index.html on a web browser
+* open index.html on a web browser 
+
+that's all
 
 autor: raulcv
