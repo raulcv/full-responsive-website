@@ -7,7 +7,7 @@ This project uses the following technologies:
 
 Others
 * Swiper
-
+* unicons
 For running execute the following command lines
 * git clone https://github.com/raulcv/me-basic-website.git
 * open index.html on a web browser 
