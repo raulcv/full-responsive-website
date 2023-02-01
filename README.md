@@ -11,7 +11,7 @@ Others
 
 Clone with git and open the html file with your browser
 ```bash
-git clone https://github.com/raulcv/me-basic-website.git
+git clone https://github.com/raulcv/full-responsive-website.git
 ```
 * open index.html on a web browser 
 
