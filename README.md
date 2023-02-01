@@ -1,6 +1,6 @@
-# Nice! Full responsive portFolio Web Site using html, css, javascript and a couple of libraries for animation
-This project uses the following technologies:
+## Nice! Full responsive portFolio Web Site using html, css, javascript and a couple of libraries for animation
 
+>This project uses the following technologies:
 * HTML
 * CSS
 * JAVASCRIPT
@@ -8,10 +8,17 @@ This project uses the following technologies:
 Others
 * Swiper
 * unicons
-For running execute the following command lines
-* git clone https://github.com/raulcv/me-basic-website.git
+
+Clone with git and open the html file with your browser
+```bash
+git clone https://github.com/raulcv/me-basic-website.git
+```
 * open index.html on a web browser 
 
-that's all
+That's all
+------------------------------------------------------------------------
 
-autor: raulcv
+<p align="center">
+	With :heart: by <a href="https://www.raulcv.com" target="_blank">raulcv</a>
+</p>
+
